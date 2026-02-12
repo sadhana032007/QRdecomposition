@@ -53,6 +53,7 @@ print("The R Matrix is\n",R)
 
 ## Output
 ```
+<img width="560" height="340" alt="Screenshot 2026-02-12 180203" src="https://github.com/user-attachments/assets/61ebbc0c-f74f-4cd4-a565-60634ada8bb4" />
 
 ```
 
